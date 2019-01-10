@@ -1,5 +1,5 @@
-# printerports.com
-## A web app for 3D Printing Services and Online Ordering.
+# Webpack 4 Boilerplate
+## A boilerplate using Webpack 4
 
 ## Usage
 
@@ -13,10 +13,10 @@ Install server and client dependencies
 
 ```
 cd server
-yarn install
+npm install
 
 cd client
-yarn install
+npm install
 ```
 
 To start the server
@@ -27,9 +27,3 @@ To start the client
 cd client
 npm start
 ```
-Running the production build on localhost. This will create a production build, then Node will serve the app on http://localhost:5000
-
-```
-NODE_ENV=production yarn dev:server
-```
-
