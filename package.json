@@ -2,7 +2,6 @@
   "name": "printer-ports",
   "version": "1.0.0",
   "description": "Printer Ports App for 3D Printing",
-  "main": "index.js",
   "repository": "https://github.com/3daddict/printer-ports.git",
   "author": "Michael Salvati",
   "license": "MIT",
