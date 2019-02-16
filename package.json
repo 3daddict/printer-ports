@@ -1,9 +1,25 @@
 {
-  "name": "printer-ports",
+  "name": "webpack-4-boilerplate",
   "version": "1.0.0",
-  "description": "",
-  "repository": "https://github.com/3daddict/printer-ports.git",
+  "description": "Webpack 4 Boiler Plate for Vanilla JS Projects",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3daddict/webpack-4-boilerplate.git"
+  },
+  "keywords": [],
   "author": "Michael Salvati",
-  "license": "MIT",
-  "private": true
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3daddict/webpack-4-boilerplate/issues"
+  },
+  "homepage": "https://github.com/3daddict/webpack-4-boilerplate#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "webpack": "^4.29.4",
+    "webpack-cli": "^3.2.3"
+  }
 }
